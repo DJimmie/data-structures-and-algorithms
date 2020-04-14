@@ -7,3 +7,6 @@ practice with various data structures and algorithms
 - [Khan Academy Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 - [Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
+
+### Python Data Structures
+- [Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html) 
