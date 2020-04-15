@@ -9,4 +9,5 @@ practice with various data structures and algorithms
 - [Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
 
 ### Python Data Structures
-- [Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html) 
+- [Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html)
+- [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/stacks/introduction/)
